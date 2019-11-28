@@ -1,0 +1,66 @@
+{
+	"Liquid" :
+		[
+			{
+				"Gambar" 	: "assets/img/alacarte.jpg",
+				"Nama" 		: "AlaCarte 100ml 3mg",
+				"Harga" 	: "Rp.180.000"
+			},
+			{
+				"Gambar" 	: "assets/img/bananarilla.jpg",
+				"Nama" 		: "Bananarilla 60ml 3&6mg",
+				"Harga" 	: "Rp.150.000"
+			},
+			{
+				"Gambar" 	: "assets/img/bananamochi.jpg",
+				"Nama" 		: "BerryBananaMochi 60ml 3mg",
+				"Harga" 	: "Rp.140.000"
+			},
+			{
+				"Gambar" 	: "assets/img/darkluna.jpg",
+				"Nama" 		: "DarkLuna 60ml 3mg",
+				"Harga" 	: "Rp.150.000"
+			},
+			{
+				"Gambar" 	: "assets/img/goldenticket.jpg",
+				"Nama" 		: "GoldenTicket US Liquid 60ml 3mg",
+				"Harga" 	: "Rp.180.000"
+			},
+			{
+				"Gambar" 	: "assets/img/hookla.jpg",
+				"Nama" 		: "Hookla 60ml 3&7mg",
+				"Harga" 	: "Rp.130.000"
+			},
+			{
+				"Gambar" 	: "assets/img/jm.jpg",
+				"Nama" 		: "JamMonster US Liquid 100ml 3mg",
+				"Harga" 	: "Rp.280.000"
+			},
+			{
+				"Gambar" 	: "assets/img/knock.jpg",
+				"Nama" 		: "Knock-Knock 60ml 3mg",
+				"Harga" 	: "Rp.140.000"
+			},
+			{
+				"Gambar" 	: "assets/img/lunar.jpg",
+				"Nama" 		: "Lunar HexLiquid 60ml 3mg",
+				"Harga" 	: "Rp.180.000"
+			},
+			{
+				"Gambar" 	: "assets/img/oatdrips.jpg",
+				"Nama" 		: "OatDrips 100ml 3mg",
+				"Harga" 	: "Rp.180.000"
+			},
+			{
+				"Gambar" 	: "assets/img/tokban.jpg",
+				"Nama" 		: "Tokyo Banana by JavaJazz 60ml 3mg",
+				"Harga" 	: "Rp.180.000"
+			},
+			{
+				"Gambar" 	: "assets/img/ufa.jpg",
+				"Nama" 		: "UFA 60ml 3mg",
+				"Harga" 	: "Rp.130.000"
+			}
+			
+		]
+}

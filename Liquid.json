@@ -1,0 +1,17 @@
+{
+	"Liquid" :
+	[
+		{"Gambar" 	: "assets/img/alacarte.png","Nama" : "AlaCarte 100ml 3mg","Harga" : "Rp.180.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/bananarilla.png","Nama" : "Bananarilla 60ml 3&6mg","Harga" : "Rp.150.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/bananamochi.png","Nama" : "BerryBananaMochi 60ml 3mg","Harga" : "Rp.140.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/darkluna.png","Nama" : "DarkLuna 60ml 3mg","Harga" : "Rp.150.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/goldenticket.png","Nama" : "GoldenTicket US Liquid 60ml 3mg","Harga" : "Rp.180.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/hookla.png","Nama" : "Hookla 60ml 3&7mg","Harga" : "Rp.130.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/tenor.gif","Nama" : "JamMonster US Liquid 100ml 3mg","Harga" : "Rp.280.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/knock.png","Nama" : "Knock-Knock 60ml 3mg","Harga" : "Rp.140.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/lunar.png","Nama" : "Lunar HexLiquid 60ml 3mg","Harga" : "Rp.180.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/oatdrips.png","Nama" : "OatDrips 100ml 3mg","Harga" : "Rp.180.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/tokban.png","Nama" : "Tokyo Banana by JavaJazz 60ml 3mg","Harga" : "Rp.180.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"},
+		{"Gambar" 	: "assets/img/ufa.png","Nama" : "UFA 60ml 3mg","Harga" : "Rp.130.000","Rating" : "assets/img/bintang.png","Disc" : "assets/img/disc.png"}
+	]
+}
